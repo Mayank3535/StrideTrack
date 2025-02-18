@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506144637624",
+    "project_id": "stridetrack-82e9c",
+    "storage_bucket": "stridetrack-82e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506144637624:android:b199fcde8dda5399366a4d",
+        "android_client_info": {
+          "package_name": "com.example.stridetrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNHLMLabQ4oHD0tAFJSo6TMWwqg-lN0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
